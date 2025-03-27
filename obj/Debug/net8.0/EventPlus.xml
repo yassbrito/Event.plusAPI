@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EventPlus</name>
+    </assembly>
+    <members>
+        <member name="M:Event_.Controllers.LoginController.Login(Event_.DTO.loginDTO)">
+            <summary>
+            Endpoint para Login
+            </summary>
+            <param name="LoginDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Event_.Migrations.EventPlus">
+            <inheritdoc />
+        </member>
+        <member name="M:Event_.Migrations.EventPlus.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Event_.Migrations.EventPlus.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Event_.Migrations.EventPlus.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Event_Plus.Controller.TipoEventosController.Get" -->
+        <member name="M:Event_Plus.Controller.TipoEventosController.Post(Event_.Domains.TiposEventos)">
+            <summary>
+            Cadastrar os Tipo Eventos
+            </summary>
+            <param name="novoTipoEvento">Tipo Evento cadastrado</param>
+            <returns>Novo Tipo Evento</returns>
+        </member>
+        <member name="M:Event_Plus.Controller.TipoEventosController.Delete(System.Guid)">
+            <summary>
+            Deletar um Tipo Evento
+            </summary>
+            <param name="id">Id do Tipo de Evento</param>
+            <returns>Linha vazia</returns>
+        </member>
+        <member name="M:Event_Plus.Controller.TipoEventosController.Put(System.Guid,Event_.Domains.TiposEventos)">
+            <summary>
+            Atualizar um Tipo De Evento
+            </summary>
+            <param name="id">Id do TipoEvento</param>
+            /// <param name="tipoEvento">Titulo do Filme</param>
+            <returns>Tipo Evento Atualizado</returns>
+        </member>
+        <member name="M:Event_Plus.Controller.TipoEventosController.GetById(System.Guid)">
+            <summary>
+            Atualizar um Tipo De Evento
+            </summary>
+            <param name="id">Id do TipoEvento</param>
+            <returns>Tipo Evento Buscado</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,6 @@
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.csproj.AssemblyReference.cache
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.AssemblyInfoInputs.cache
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.AssemblyInfo.cs
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.csproj.CoreCompileInputs.cache
+C:\Users\54891245808\Desktop\api_filmes\Event+\obj\Debug\net8.0\Event+.MvcApplicationPartsAssemblyInfo.cache
